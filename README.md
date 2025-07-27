@@ -124,4 +124,4 @@ This project is created for educational and personal use.
 
 ---
 
-*Created with ❤️ for Priyadarshini's professional portfolio* # coached
+*Created with ❤️ for Priyadarshini's professional portfolio* 
