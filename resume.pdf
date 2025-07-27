@@ -1,0 +1,131 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+>>
+endobj
+
+4 0 obj
+<<
+/Length 1500
+>>
+stream
+BT
+/F1 16 Tf
+72 720 Td
+(PRIYADARSHINI) Tj
+/F2 12 Tf
+0 -30 Td
+(Electronics and Communication Engineering Student) Tj
+0 -20 Td
+(NIE, Mysore) Tj
+/F3 10 Tf
+0 -30 Td
+(Email: priyadarshini@example.com | Location: Mysore, Karnataka, India) Tj
+0 -40 Td
+(LinkedIn: linkedin.com/in/priyadarshini) Tj
+/F1 14 Tf
+0 -40 Td
+(EDUCATION) Tj
+/F3 10 Tf
+0 -20 Td
+(Bachelor of Engineering in Electronics and Communication) Tj
+0 -15 Td
+(NIE, Mysore | Expected Graduation: 2025) Tj
+0 -10 Td
+(CGPA: 8.5/10) Tj
+/F1 14 Tf
+0 -40 Td
+(TECHNICAL SKILLS) Tj
+/F3 10 Tf
+0 -20 Td
+(Programming Languages: C, C++, Python Basics) Tj
+0 -15 Td
+(Embedded Systems: Arduino, Microcontroller Programming, IoT) Tj
+0 -15 Td
+(Digital Electronics: VLSI Design, Digital Logic, Circuit Analysis) Tj
+0 -15 Td
+(Software Tools: MATLAB, Simulink, Proteus, Multisim) Tj
+0 -15 Td
+(Web Technologies: HTML, CSS, JavaScript Basics) Tj
+0 -15 Td
+(Communication Systems: Analog & Digital Communication, Signal Processing) Tj
+/F1 14 Tf
+0 -40 Td
+(PROJECTS) Tj
+/F3 10 Tf
+0 -20 Td
+(Smart Home Automation System) Tj
+0 -10 Td
+(- Developed IoT-based home automation using Arduino and sensors) Tj
+0 -10 Td
+(- Implemented remote control via mobile application) Tj
+0 -20 Td
+(Digital Signal Processing Project) Tj
+0 -10 Td
+(- Designed and implemented digital filters using MATLAB) Tj
+0 -10 Td
+(- Analyzed signal characteristics and noise reduction techniques) Tj
+0 -20 Td
+(Communication System Simulation) Tj
+0 -10 Td
+(- Simulated AM/FM modulation and demodulation circuits) Tj
+0 -10 Td
+(- Analyzed signal quality and transmission parameters) Tj
+/F1 14 Tf
+0 -40 Td
+(ACADEMIC ACHIEVEMENTS) Tj
+/F3 10 Tf
+0 -20 Td
+(- Consistently maintained CGPA above 8.0) Tj
+0 -15 Td
+(- Completed Advanced C Programming certification) Tj
+0 -15 Td
+(- Participated in IEEE Student Branch activities) Tj
+0 -15 Td
+(- Member of Electronics and Communication Club) Tj
+/F1 14 Tf
+0 -40 Td
+(INTERESTS) Tj
+/F3 10 Tf
+0 -20 Td
+(Embedded Systems, IoT, Digital Signal Processing, Communication Engineering) Tj
+0 -15 Td
+(Problem Solving, Team Collaboration, Continuous Learning) Tj
+ET
+endstream
+endobj
+
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000214 00000 n 
+trailer
+<<
+/Size 5
+/Root 1 0 R
+>>
+startxref
+1597
+%%EOF 
