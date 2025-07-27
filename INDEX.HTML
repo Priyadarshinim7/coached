@@ -3,65 +3,125 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Resume</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Priyadarshini - Electronics & Communication Engineer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="STYLE.CSS">
 </head>
 <body>
-    <header>
-        <h1>Your Name</h1>
-        <p class="tagline">Web Developer | Programmer | Tech Enthusiast</p>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="container">
+            <h1 class="name">Priyadarshini</h1>
+            <p class="tagline">Electronics and Communication Student at NIE, Mysore</p>
+        </div>
     </header>
 
-    <main>
-        <section class="section">
-            <h2>Contact</h2>
-            <p>Email: your.email@example.com</p>
-            <p>Phone: +1 234 567 8901</p>
-            <p>Location: Your City, Country</p>
-            <p>LinkedIn: <a href="#" target="_blank">linkedin.com/in/yourname</a></p>
-        </section>
-
-        <section class="section">
-            <h2>Summary</h2>
-            <p>Motivated and detail-oriented web developer with experience in building responsive websites and web apps using HTML, CSS, and JavaScript. Passionate about clean code and continuous learning.</p>
-        </section>
-
-        <section class="section">
-            <h2>Skills</h2>
-            <ul>
-                <li>HTML, CSS, JavaScript</li>
-                <li>React, Node.js</li>
-                <li>Responsive Web Design</li>
-                <li>Git & GitHub</li>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <ul class="nav-links">
+                <li><a href="#home" class="nav-link">Home</a></li>
+                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#skills" class="nav-link">Skills</a></li>
+                <li><a href="#resume" class="nav-link">Resume</a></li>
+                <li><a href="#contact" class="nav-link">Contact</a></li>
             </ul>
-        </section>
+        </div>
+    </nav>
 
-        <section class="section">
-            <h2>Experience</h2>
-            <h3>Front-End Developer — ABC Company</h3>
-            <p><strong>Jan 2023 – Present</strong></p>
-            <ul>
-                <li>Developed and maintained features for company website using React and Tailwind CSS</li>
-                <li>Collaborated with UX designers and backend developers</li>
-            </ul>
-        </section>
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Home Section -->
+            <section id="home" class="section">
+                <div class="hero">
+                    <h2>Welcome to My Portfolio</h2>
+                    <p>I'm passionate about technology, embedded systems, and communication engineering. Currently pursuing my degree in Electronics and Communication Engineering at NIE, Mysore.</p>
+                </div>
+            </section>
 
-        <section class="section">
-            <h2>Education</h2>
-            <h3>Bachelor of Technology in Computer Science</h3>
-            <p>XYZ University — 2019 – 2023</p>
-        </section>
+            <!-- About Section -->
+            <section id="about" class="section">
+                <h2 class="section-title">About Me</h2>
+                <div class="about-content">
+                    <p>Hello! I'm Priyadarshini, a dedicated student of Electronics and Communication Engineering at NIE, Mysore. I have a deep interest in technology and its applications in modern communication systems.</p>
+                    <p>My passion lies in embedded systems, digital electronics, and exploring the fascinating world of communication engineering. I enjoy working on projects that combine hardware and software to create innovative solutions.</p>
+                    <p>When I'm not studying or working on technical projects, you can find me exploring new technologies, reading about the latest developments in electronics, or collaborating with fellow students on interesting projects.</p>
+                </div>
+            </section>
 
-        <section class="section">
-            <h2>Resume</h2>
-            <p>
-                <a href="resume.pdf" download class="download-btn">📄 Download My Resume (PDF)</a>
-            </p>
-        </section>
+            <!-- Skills Section -->
+            <section id="skills" class="section">
+                <h2 class="section-title">Skills</h2>
+                <div class="skills-grid">
+                    <div class="skill-card">
+                        <h3>C Programming</h3>
+                        <p>Proficient in C programming language with experience in embedded systems development</p>
+                    </div>
+                    <div class="skill-card">
+                        <h3>Embedded Systems</h3>
+                        <p>Knowledge of microcontroller programming and embedded system design principles</p>
+                    </div>
+                    <div class="skill-card">
+                        <h3>Digital Electronics</h3>
+                        <p>Understanding of digital logic design, Boolean algebra, and digital circuit analysis</p>
+                    </div>
+                    <div class="skill-card">
+                        <h3>MATLAB Basics</h3>
+                        <p>Experience with MATLAB for signal processing and mathematical modeling</p>
+                    </div>
+                    <div class="skill-card">
+                        <h3>HTML & CSS</h3>
+                        <p>Web development skills with responsive design principles</p>
+                    </div>
+                    <div class="skill-card">
+                        <h3>Communication Systems</h3>
+                        <p>Knowledge of analog and digital communication principles and protocols</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Resume Section -->
+            <section id="resume" class="section">
+                <h2 class="section-title">Resume</h2>
+                <div class="resume-content">
+                    <p>Download my detailed resume to learn more about my education, projects, and achievements.</p>
+                    <a href="resume.pdf" download class="download-btn">
+                        <span>📄 Download Resume (PDF)</span>
+                    </a>
+                </div>
+            </section>
+
+            <!-- Contact Section -->
+            <section id="contact" class="section">
+                <h2 class="section-title">Contact</h2>
+                <div class="contact-content">
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <h3>Email</h3>
+                            <p><a href="mailto:priyadarshini@example.com">priyadarshini@example.com</a></p>
+                        </div>
+                        <div class="contact-item">
+                            <h3>LinkedIn</h3>
+                            <p><a href="#" target="_blank">linkedin.com/in/priyadarshini</a></p>
+                        </div>
+                        <div class="contact-item">
+                            <h3>Location</h3>
+                            <p>Mysore, Karnataka, India</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
     </main>
 
-    <footer>
-        <p>© 2025 Your Name. All rights reserved.</p>
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 Priyadarshini. All rights reserved.</p>
+        </div>
     </footer>
 </body>
 </html>
